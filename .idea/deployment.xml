@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="Apache">
+    <serverData>
+      <paths name="Apache">
+        <serverdata>
+          <mappings>
+            <mapping deploy="www\tmlog\yan_kz\yan1" local="$PROJECT_DIR$" web="/www/tmlog/yan_kz/yan1" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
