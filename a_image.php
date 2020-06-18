@@ -1,1 +1,0 @@
-<img src="f_image.php?pic_id=<?php echo $recid; ?>" border="0">
